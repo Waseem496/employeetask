@@ -1,0 +1,22 @@
+.tasks-heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+
+
+.task-heading-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    width:auto;
+    border-color: black;
+}
+.tasks-heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+.remove-button{
+    text-align: end;
+}

@@ -1,0 +1,79 @@
+.saved-task-container{
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+   
+}
+.task-list{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+}
+.link-button{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+
+.employee-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.back-button{
+    height: 40px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+    border-width: 0px;
+   
+}
+.emp-card-list-item-container{
+     height: auto;
+    width: auto;
+    list-style: none;
+    background-color: rgb(236, 214, 233);
+    border-radius: 10px;
+    border-width: 0px;
+    padding: 10px;
+    margin-right: 10px;
+     font-size: 12px;
+    font-weight: bold;
+    align-items: center;
+
+}
+.line{
+    color: black;
+    font-weight: bold;
+    width: 100%;
+
+}
+.task-list-item-container{
+    background-color: #ffffff;
+    height: 40px;
+    width: 280px;
+    list-style: none;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Roboto";
+    border-radius: 10px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.list-task{
+    color: black;
+    font-size: 18px;
+    font-family: "Roboto";
+
+}

@@ -1,0 +1,55 @@
+.card-box{
+    background-color: rgb(241, 224, 148);
+    height: auto;
+    width: 40rem;
+    margin: 10px;
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-left: 90px;
+   padding: 10px;
+}
+.task-box{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+}
+.input{
+    width: 180px;
+    height: 30px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+.labe-name{
+   font-size: 16px;
+   color: black;
+   font-weight: 700;
+   padding: 10px;
+}
+.task-input{
+    width: 180px;
+    height: 30px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+.task-button{
+    height: 40px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+    border-width: 0px;
+  
+}
+.app-header{
+    margin-top: 60px;
+    padding: 20px;
+
+}
+
